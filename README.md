@@ -59,3 +59,5 @@ Ahora si se quiere hacer una replica del ambiente virtual se puede usar el archi
 ```sh
 pip3 install -r requirements.txt
 ```
+
+## Docker para encapsular proyectos (tanto la version del python como los modulos)
